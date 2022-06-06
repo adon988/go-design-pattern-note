@@ -1,0 +1,4 @@
+go.mod
+go.mod/*
+.DS_Store
+myapp
